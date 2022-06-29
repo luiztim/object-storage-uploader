@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 In order to build this app, you will need:
 
-* **An IBM Cloud Account** for Watson Translation Service: [Create an account with IBM Cloud for free](https://cloud.ibm.com/registration).
+* **An IBM Cloud Account** for Cloud Object Storage Service: [Create an account with IBM Cloud for free](https://cloud.ibm.com/registration).
 * **Node 12** (LTS) or greater: [Install Node](https://www.notion.so/Instalando-o-Node-js-d40fdabe8f0a491eb33b85da93d90a2f).
 * **Yarn** for project dependencies management: [Install Yarn](https://www.notion.so/Instalando-o-Yarn-eca6a13be5b3467d8d2f7be15c60f322).
 
